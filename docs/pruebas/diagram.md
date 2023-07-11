@@ -1,3 +1,4 @@
+# Diagrama de prueba
 ``` mermaid
 graph LR
   A[Start] --> B{Error?};

@@ -5,12 +5,18 @@ theme:
     primary: teal
     accent: indigo
   font:
-    text: Arial
+    text: Roboto
+    code: Roboto Mono
   language: es
+  features:
+    - navigation.tabs
+    - toc.integrate
 plugins:
   - search
 markdown_extensions:
   - attr_list
+  - footnotes
+  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
@@ -19,3 +25,12 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+nav:
+  - Home: index.md
+  - Pruebas:
+    - pruebas/index.md
+    - Getting started: pruebas/getting-started.md
+    - Diagrama: pruebas/diagram.md
+hide:
+  - navigation
+  - toc
