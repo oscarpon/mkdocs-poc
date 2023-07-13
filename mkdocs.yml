@@ -31,6 +31,7 @@ nav:
     - pruebas/index.md
     - Getting started: pruebas/getting-started.md
     - Diagrama: pruebas/diagram.md
+    - Vigo: pruebas/vigo.md
 hide:
   - navigation
   - toc
