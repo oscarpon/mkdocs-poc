@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/pruebas/getting-started.md",
+                "file": "docs/pruebas/Prueba.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/pruebas/getting-started.md",
+                "file": "docs/pruebas/Prueba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/pruebas/getting-started.md",
+                "file": "docs/pruebas/Prueba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/pruebas/getting-started.md"
+                "file": "docs/pruebas/Prueba.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "10aeaadf5b8f47b3",
   "lastOpenFiles": [
+    "docs/index.md",
+    "docs/pruebas/Prueba.md",
+    "docs/pruebas/getting-started.md",
     "docs/pruebas/diagram.md"
   ]
 }
