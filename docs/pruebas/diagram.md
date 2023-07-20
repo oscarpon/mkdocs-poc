@@ -10,4 +10,4 @@ graph LR
 
 Hol MAT
 
-[Java 17](/docs/pruebas/Unitarias/java17.md)
+[Java 17](../Unitarias/java17.md)

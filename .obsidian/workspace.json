@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/pruebas/Unitarias/java17.md",
+                "file": "docs/pruebas/diagram.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/pruebas/Unitarias/java17.md",
+                "file": "docs/pruebas/diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/pruebas/Unitarias/java17.md",
+                "file": "docs/pruebas/diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/pruebas/Unitarias/java17.md"
+                "file": "docs/pruebas/diagram.md"
               }
             }
           },
@@ -156,15 +156,15 @@
   },
   "active": "cb65abc7e2a3817e",
   "lastOpenFiles": [
-    "docs/pruebas/diagram.md",
+    "docs/pruebas/getting-started.md",
     "docs/pruebas/Unitarias/java17.md",
+    "docs/pruebas/diagram.md",
     "pruebas/Unitarias/java17.md",
     "pruebas/Unitarias",
     "pruebas",
     "docs/pruebas/Prueba.md",
     "docs/index.md",
     "docs/pruebas/vigo.md",
-    "docs/pruebas/getting-started.md",
     "docs/pruebas/Unitarias",
     "docs/pruebas/index.md",
     "diagrama.md",
