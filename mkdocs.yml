@@ -25,13 +25,6 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
-nav:
-  - Home: index.md
-  - Pruebas:
-    - pruebas/index.md
-    - Getting started: pruebas/getting-started.md
-    - Diagrama: pruebas/diagram.md
-    - Vigo: pruebas/vigo.md
 hide:
   - navigation
   - toc
