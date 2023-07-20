@@ -128,13 +128,21 @@
                 "file": "docs/pruebas/Prueba.md"
               }
             }
+          },
+          {
+            "id": "7d9aeec698b66c64",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,11 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10aeaadf5b8f47b3",
+  "active": "7d9aeec698b66c64",
   "lastOpenFiles": [
-    "docs/index.md",
-    "docs/pruebas/Prueba.md",
+    "docs/pruebas/index.md",
     "docs/pruebas/getting-started.md",
+    "docs/pruebas/Prueba.md",
+    "docs/Java",
+    "docs/index.md",
     "docs/pruebas/diagram.md"
   ]
 }
