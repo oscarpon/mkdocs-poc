@@ -9,7 +9,7 @@ If not, we recommend using [`docker`][docker].
   [pip]: #with-pip
   [docker]: #with-docker
 
-## Installation
+## Installation lomas --------
 
 ### with pip <small>recommended</small> { #with-pip data-toc-label="with pip" }
 
