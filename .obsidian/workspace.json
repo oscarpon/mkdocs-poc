@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/pruebas/Unitarias/Java.md",
+                "file": "docs/pruebas/Unitarias/java17.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/pruebas/Unitarias/Java.md",
+                "file": "docs/pruebas/Unitarias/java17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/pruebas/Unitarias/Java.md",
+                "file": "docs/pruebas/Unitarias/java17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/pruebas/Unitarias/Java.md"
+                "file": "docs/pruebas/Unitarias/java17.md"
               }
             }
           },
@@ -167,16 +167,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e01ce4efb4c069a4",
+  "active": "cb65abc7e2a3817e",
   "lastOpenFiles": [
     "docs/pruebas/diagram.md",
-    "docs/pruebas/Unitarias/Java.md",
-    "docs/pruebas/Unitarias",
+    "docs/pruebas/Unitarias/java17.md",
     "docs/pruebas/Prueba.md",
+    "docs/pruebas/getting-started.md",
+    "docs/pruebas/Unitarias",
     "docs/pruebas/index.md",
     "diagrama.md",
     "license.md",
-    "docs/pruebas/getting-started.md",
     "docs/Java",
     "docs/index.md"
   ]
