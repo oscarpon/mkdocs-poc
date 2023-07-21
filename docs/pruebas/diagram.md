@@ -1,4 +1,4 @@
-# Diagrama de prueba 44553345kwjngkmmblkrmok
+# Diagrama de prueba 
 ``` mermaid
 graph LR
   A[Start] --> B{Error?};

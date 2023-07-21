@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "baae287fbd991ebf",
+        "id": "8e815341e11e4d9e",
         "type": "tabs",
         "children": [
           {
-            "id": "cb65abc7e2a3817e",
+            "id": "a49e356075e6fc06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/pruebas/diagram.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/pruebas/diagram.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/pruebas/diagram.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/pruebas/diagram.md"
+                "file": "docs/index.md"
               }
             }
           },
@@ -154,19 +154,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb65abc7e2a3817e",
+  "active": "a49e356075e6fc06",
   "lastOpenFiles": [
-    "docs/pruebas/getting-started.md",
-    "docs/pruebas/Unitarias/java17.md",
-    "docs/pruebas/diagram.md",
     "pruebas/Unitarias/java17.md",
-    "pruebas/Unitarias",
-    "pruebas",
-    "docs/pruebas/Prueba.md",
     "docs/index.md",
     "docs/pruebas/vigo.md",
-    "docs/pruebas/Unitarias",
+    "docs/pruebas/Prueba.md",
     "docs/pruebas/index.md",
+    "docs/pruebas/getting-started.md",
+    "docs/pruebas/diagram.md",
+    "docs/pruebas/Unitarias/java17.md",
+    "pruebas/Unitarias",
+    "pruebas",
+    "docs/pruebas/Unitarias",
     "diagrama.md",
     "license.md",
     "docs/Java"

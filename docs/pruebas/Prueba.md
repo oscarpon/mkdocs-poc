@@ -1,5 +1,5 @@
 # Prueba nueva **página**
-## 
+## ~~Con tachado~~
 **Hola**
 > sdcsvb
 > hjmh,u,
